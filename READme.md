@@ -1,0 +1,7 @@
+# MY BIOGRAPHY
+
+## TECNOLOGIES
+- HTML
+- CSS
+- Git 
+- Github
